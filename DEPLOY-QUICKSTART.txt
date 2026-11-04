@@ -1,0 +1,12 @@
+CHAMBER MANAGEMENT SYSTEM — PUBLIC MARKETING WEBSITE
+
+1. Extract the ZIP.
+2. Cloudflare Dashboard → Workers & Pages → Create → Pages → Direct Upload.
+3. Upload the EXTRACTED CONTENTS of the site folder (index.html at the root).
+4. Open your new public .pages.dev URL.
+5. Test the four clickable tabs in the product preview and the email inquiry button.
+
+IMPORTANT: Deploy as a NEW public Cloudflare Pages project, NOT to your existing private CMS Worker. No database migrations, D1 setup or member logins are needed.
+
+Inquiry email: madushangarodrigo@gmail.com
+Project details: README.md
